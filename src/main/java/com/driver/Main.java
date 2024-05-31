@@ -5,6 +5,6 @@ public class Main {
         B b = new B();
         System.out.println(b.meth());
         A a = new A();
-        System.out.println(agit .meth());
+        System.out.println(a .meth());
     }
 }
